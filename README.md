@@ -12,7 +12,7 @@
 
 ---
 <p align="center">
-  <a href="portfolio-bice-pi-42.vercel.app">
+  <a href="https://portfolio-bice-pi-42.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
   </a>
 </p>
