@@ -11,7 +11,11 @@
 </p>
 
 ---
-
+<p align="center">
+  <a href="https://yourportfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+</p>
 ### 🚀 About Me
 - 🎓 Final Year B.Tech IT student  
 - 💻 Strong in C++, DSA, Flutter, Node.js, FastAPI  
