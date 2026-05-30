@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka Singh</h1>
-<h3 align="center">Final Year IT Student | C++ | Flutter | Full Stack | AI/ML Enthusiast</h3>
+<h3 align="center">Final Year IT Student | C++ | Flutter | AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anushka-singh-16195028a">
