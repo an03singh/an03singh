@@ -12,11 +12,11 @@
 
 ---
 <p align="center">
-  <a href="https://yourportfolio.vercel.app">
+  <a href="portfolio-bice-pi-42.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
   </a>
 </p>
-### 🚀 About Me
+ 🚀 About Me
 - 🎓 Final Year B.Tech IT student  
 - 💻 Strong in C++, DSA, Flutter, Node.js, FastAPI  
 - 🤖 Exploring AI/ML and GenAI projects  
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,express,flutter,dart,mongodb,mysql,fastapi,git,github,vscode" />
@@ -33,20 +33,20 @@
 
 ---
 
-### 📌 Featured Projects
+ 📌 Featured Projects
 
-#### 🔹 RentItUp
+ 🔹 RentItUp
 A rental marketplace app built with Flutter, Node.js, Express, MongoDB and Cloudinary.
 
-#### 🔹 CodeBase Explainer
+ 🔹 CodeBase Explainer
 AI-powered tool that explains GitHub repositories using FastAPI, embeddings, ChromaDB and Gemini API.
 
-#### 🔹 PDF StudyMate
+ 🔹 PDF StudyMate
 PDF-based study assistant that creates summaries, flashcards and Q&A.
 
 ---
 
-### 📊 GitHub Stats
+ 📊 GitHub Stats
 
 
 <p align="center">
