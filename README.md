@@ -44,14 +44,17 @@ PDF-based study assistant that creates summaries, flashcards and Q&A.
 
 ### 📊 GitHub Stats
 
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=an03singh&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=an03singh&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an03singh&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=an03singh&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an03singh&layout=compact&theme=tokyonight" />
-</p>
+
